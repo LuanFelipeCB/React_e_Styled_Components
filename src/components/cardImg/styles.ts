@@ -20,4 +20,3 @@ const CardImgS = styled.div`
 
 export default CardImgS;
 
-TEEEEEEEEEEM ERROOOOOOOOOOOS
